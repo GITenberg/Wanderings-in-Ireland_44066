@@ -1,0 +1,28 @@
+_repo: Wanderings-in-Ireland_44066
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44066-h/images/i_front_cover.jpg
+creator:
+  author:
+    agent_name: Shoemaker, Michael Myers
+    alias: Shoemaker, M. M. (Michael Myers)
+    birthdate: 1853
+    deathdate: 1924
+    gutenberg_agent_id: '42549'
+    url: http://www.gutenberg.org/2009/agents/42549
+description: ''
+gutenberg_issued: '2013-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44066'
+  lccn: 08017723
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ireland -- Description and travel'
+title: Wanderings in Ireland
+url: http://www.gutenberg.org/ebooks/44066
